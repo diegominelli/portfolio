@@ -25,5 +25,80 @@ export class ProjectsComponent {
         },
       ],
     },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto FullStack',
+      title: 'Vida FullStack',
+      with: '100px',
+      height: '51px',
+      description:
+        '<p>Explore o fascinante mundo do desenvolvimento web no meu blog dedicado exclusivamente ao ecossistema Angular</p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br',
+        },
+      ],
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto FullStack',
+      title: 'Vida FullStack',
+      with: '100px',
+      height: '51px',
+      description:
+        '<p>Explore o fascinante mundo do desenvolvimento web no meu blog dedicado exclusivamente ao ecossistema Angular</p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br',
+        },
+      ],
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto FullStack',
+      title: 'Vida FullStack',
+      with: '100px',
+      height: '51px',
+      description:
+        '<p>Explore o fascinante mundo do desenvolvimento web no meu blog dedicado exclusivamente ao ecossistema Angular</p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br',
+        },
+      ],
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto FullStack',
+      title: 'Vida FullStack',
+      with: '100px',
+      height: '51px',
+      description:
+        '<p>Explore o fascinante mundo do desenvolvimento web no meu blog dedicado exclusivamente ao ecossistema Angular</p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br',
+        },
+      ],
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto FullStack',
+      title: 'Vida FullStack',
+      with: '100px',
+      height: '51px',
+      description:
+        '<p>Explore o fascinante mundo do desenvolvimento web no meu blog dedicado exclusivamente ao ecossistema Angular</p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br',
+        },
+      ],
+    },
   ]);
 }
