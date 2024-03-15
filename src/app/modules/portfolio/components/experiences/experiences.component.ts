@@ -22,7 +22,7 @@ export class ExperiencesComponent {
         strong: 'Desenvolvedor Front-end',
         p: 'Nine Coders | Mai 2020 - Out 2020',
       },
-      text: '<p><Desenvolvedor Front-end com experiência no desenvolvimento web usando o Angular consumindo Api, e no desenvolvimento mobile usando o Ionic.</p><p>Trabalhos realizados plataforma web desenvolvida em Angular</p><p>http://app.deedhunter.com/login.</p><p>App mobile desenvolvido com Ionic</p><p>https://play.google.com/store/apps/detailsid=com.deedhunter.app&hl=pt_BR</p>',
+      text: '<p>Desenvolvedor Front-end com experiência no desenvolvimento web usando o Angular consumindo Api, e no desenvolvimento mobile usando o Ionic.</p><p>Trabalhos realizados plataforma web desenvolvida em Angular</p><p>http://app.deedhunter.com/login.</p><p>App mobile desenvolvido com Ionic</p><p>https://play.google.com/store/apps/detailsid=com.deedhunter.app&hl=pt_BR</p>',
     },
     {
       summary: {
